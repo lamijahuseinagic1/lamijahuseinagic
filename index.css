@@ -1,0 +1,108 @@
+body{
+
+    background-color:#19c3e6;
+    color:hsl(276, 83%, 2%);
+    }
+    .naslov {
+    text-align:center;
+    font-weight:bold;
+    font-size:50px;
+    font-style: inherit;
+    }
+    a:link{
+    font-size:24px;
+    text-decoration:none;
+    }
+    a:hover{
+    font-size:26px;
+    color:#d811c1;
+    }
+    .podnaslov {
+    font-size:30px;
+    font-style:italic;
+    text-decoration:wavy;
+    font-weight:bold;
+    }
+    .normal{
+    text-align:justify;
+    }
+    #banner {
+    width:100%;
+    }
+    #aside {
+    float:left;
+    size: 0cm;
+    }
+    #aside1 {
+        float:left;
+        }
+    #banner1 {
+    width:70%; }
+
+    #banner3 {
+     width:70%;
+     float: left; }
+
+    #banner4 {
+    width:70%;
+    float:right;          }
+        
+    .naslov2 {
+        text-align:center;
+        font-weight:bold;
+        font-size:70px;
+        font-style: oblique;
+        text-decoration: underline;
+        color: #042415;
+        font-feature-settings: "blwm";
+        }
+
+    #aside3 {
+    float:left;
+    size: 0cm; }
+
+    #aside4 {
+    float:right;
+    size: 0cm; }
+
+    .podnaslov2 {
+        font-size:50px;
+        font-style:normal;
+        font-weight:bold;
+        text-align:center;
+        color:#042415;
+        }
+    .normal2{
+    text-align:center;
+    font-size: 30px;
+    }   
+
+    .naslov3 {
+        text-align:left;
+        font-weight:bold;
+        font-size:70px;
+        font-style:normal;
+        color: #cbe714
+        }
+    
+        .podnaslov3 {
+            font-size:50px;
+            font-style:normal;
+            font-weight:bold;
+            text-align:left;
+            color:#424209;
+            }
+        
+            .normal3{
+                text-align:justify;
+                font-size: 22px;
+                }   
+                #banner5 {
+                    width:80%;
+                    float:center;
+            align-content: end;          }
+
+            #banner6 {
+                width:60%;
+                float:center;
+        align-content: end;          }
